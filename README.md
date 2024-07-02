@@ -1,8 +1,8 @@
 # jalali conky, an Iranian time and date conky.
+
 ![jalali conky](./conky.jpg)
 
 time (hour:minute:second), weekday, Persian date (Shamsi Jalali calendar), Gregorian date.
-
 
 # Installation
 
